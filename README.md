@@ -5,7 +5,6 @@ It also includes interactive features like a cart system and a functional contac
 
 🌟 Features
 Dynamic Navigation: Toggleable navigation menu for easy access across sections.
-
 Interactive Cart: Users can add items to their cart and proceed to checkout.
 Search Functionality: A responsive search bar for quick access to desired content.
 Contact Form: Captures user information.
