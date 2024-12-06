@@ -1,4 +1,4 @@
-Coffee Club Website
+Coffee Shop Website
 Welcome to the Coffee Club Website project! This project represents a modern and responsive website for a coffee shop, 
 allowing users to explore menus, products, customer reviews, and contact the shop.
 It also includes interactive features like a cart system and a functional contact form.
