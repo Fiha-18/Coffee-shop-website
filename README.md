@@ -28,7 +28,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/Fiha-18/coffe-shop.git
+git clone https://github.com/Fiha-18/coffe-shop-website.git
 cd coffee-club
 Install Dependencies: Navigate to the backend directory and run:
 
